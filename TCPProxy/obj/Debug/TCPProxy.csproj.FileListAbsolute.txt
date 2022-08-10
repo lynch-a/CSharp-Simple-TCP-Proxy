@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\TCPProxy\TCPProxy\bin\Debug\TCPProxy.exe.config
+C:\Users\User\source\repos\TCPProxy\TCPProxy\bin\Debug\TCPProxy.exe
+C:\Users\User\source\repos\TCPProxy\TCPProxy\bin\Debug\TCPProxy.pdb
+C:\Users\User\source\repos\TCPProxy\TCPProxy\obj\Debug\TCPProxy.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TCPProxy\TCPProxy\obj\Debug\TCPProxy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TCPProxy\TCPProxy\obj\Debug\TCPProxy.exe
+C:\Users\User\source\repos\TCPProxy\TCPProxy\obj\Debug\TCPProxy.pdb

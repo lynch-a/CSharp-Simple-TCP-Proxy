@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPProxy", "TCPProxy\TCPProxy.csproj", "{DA054970-ECCE-4894-89FD-9B6E295B179A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA054970-ECCE-4894-89FD-9B6E295B179A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA054970-ECCE-4894-89FD-9B6E295B179A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA054970-ECCE-4894-89FD-9B6E295B179A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA054970-ECCE-4894-89FD-9B6E295B179A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55E3ABB2-0B52-4C04-B7E2-CC7E2915BFA3}
+	EndGlobalSection
+EndGlobal
